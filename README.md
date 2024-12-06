@@ -19,7 +19,7 @@
 - Hardware-software integration projects  
 
 ## 📫 How to reach me  
-- **Email**: prince.tahe@omebs.com  
+- **Email**: prince.tahe@lomebs.com  
 - **LinkedIn**: [linkedin.com/in/emmanuel-prince-t](#)  
 - **GitHub**: [@Emmanuel-Prince-T](https://github.com/Emmanuel-Prince-T)  
 
