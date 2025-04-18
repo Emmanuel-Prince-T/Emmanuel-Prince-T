@@ -20,7 +20,7 @@
 
 ## 📫 How to reach me  
 - **Email**: prince.tahe@lomebs.com  
-- **LinkedIn**: [linkedin.com/in/emmanuel-prince-t](#)  
+- **LinkedIn**: [https://www.linkedin.com/in/emmanuel-tahe](#)  
 - **GitHub**: [@Emmanuel-Prince-T](https://github.com/Emmanuel-Prince-T)  
 
 ## 😄 Pronouns  
